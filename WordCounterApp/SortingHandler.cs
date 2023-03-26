@@ -141,8 +141,4 @@ Time: {0}ms
         _timer.Reset();
         return output;
     }
-    
-    // public void ForLoop(List<string> list){}
-    
-    // public void TwoPointer(List<string> list){}
 }
